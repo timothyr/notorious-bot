@@ -1,3 +1,4 @@
 .env
 /node_modules/
+/lib/
 notorious-b-o-t.2019-01-20.private-key.pem
