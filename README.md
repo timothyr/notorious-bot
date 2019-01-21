@@ -1,6 +1,6 @@
 # notorious-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that The biggest bot in the game
+> A GitHub App built with [Probot](https://github.com/probot/probot)
 
 ## Setup
 
