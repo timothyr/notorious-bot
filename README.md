@@ -23,4 +23,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2019 Tim Robertson <thetjrobertson@gmail.com> (https://github.com/timothyr/notorious-bot)
+[ISC](LICENSE) © 2019 Tim Robertson (https://github.com/timothyr/notorious-bot)
